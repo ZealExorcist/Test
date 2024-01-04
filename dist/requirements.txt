@@ -1,0 +1,4 @@
+pycryptodome==3.14.1
+crypto==1.4.1
+pywin32==306
+pyarmor==8.4.6
